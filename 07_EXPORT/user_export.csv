@@ -1,0 +1,2 @@
+user_id,profile_type,experience_level,genre_literacy,trope_likes,trope_dislikes,trope_fatigue,emotional_state,reflection,challenge,comfort
+user-alex-walker,walker,0.7,"science_fiction:0.8|psychological_thriller:0.6","unreliable_reality","double_life","unreliable_reality:low|double_life:medium",contemplative,true,medium,false

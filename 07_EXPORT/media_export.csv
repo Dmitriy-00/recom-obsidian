@@ -1,0 +1,2 @@
+id,title,year,genres,themes,tropes,cognitive_operations,difficulty_level,emotional_intensity,moral_ambiguity,accessibility,transformative_score,transformative_elements,trigger_warnings,annotation_confidence,annotation_status
+film-blade-runner-1982,Blade Runner,1982,"science_fiction;psychological_thriller","identity;alienation","double_life;unreliable_reality","pattern_breaking;perspective_switching",7,8,0.8,6,8,"cognitive_dissonance|perspective_shift|reflection_trigger|identity_challenge","violence",7,draft
