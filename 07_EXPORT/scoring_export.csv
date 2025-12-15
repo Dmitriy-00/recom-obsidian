@@ -1,0 +1,2 @@
+user_id,film_id,trope_match,theme_match,cognitive_match,emotional_fit,novelty,trope_fatigue_penalty,total_score
+user-alex-walker,film-blade-runner-1982,0.8,0.5,0.7,0.6,0.4,0.1,0.83
